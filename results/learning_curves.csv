@@ -1,0 +1,76 @@
+model,n,seed,mape,r2
+Gaussian process,10,0,29.6332,0.0692
+Quadratic response surface,10,0,21.7715,0.3939
+Random forest,10,0,26.7072,0.1848
+Gaussian process,10,1,35.9174,-0.1935
+Quadratic response surface,10,1,25.6009,-0.0240
+Random forest,10,1,25.0821,0.0037
+Gaussian process,10,2,45.1770,-0.3891
+Quadratic response surface,10,2,26.0002,0.0950
+Random forest,10,2,23.1663,0.1830
+Gaussian process,10,3,20.6015,0.2933
+Quadratic response surface,10,3,24.4580,0.1004
+Random forest,10,3,23.4856,0.1245
+Gaussian process,10,4,23.9273,0.2830
+Quadratic response surface,10,4,24.7893,0.1172
+Random forest,10,4,19.9265,0.2622
+Gaussian process,20,0,15.4122,0.7711
+Quadratic response surface,20,0,20.1085,0.6592
+Random forest,20,0,23.9544,0.3094
+Gaussian process,20,1,23.9835,0.0767
+Quadratic response surface,20,1,14.8976,0.6916
+Random forest,20,1,21.6573,0.1384
+Gaussian process,20,2,26.3017,0.3513
+Quadratic response surface,20,2,19.3909,0.5023
+Random forest,20,2,22.9855,0.3428
+Gaussian process,20,3,11.1721,0.7398
+Quadratic response surface,20,3,19.2971,0.4650
+Random forest,20,3,21.5805,0.3067
+Gaussian process,20,4,10.4723,0.8877
+Quadratic response surface,20,4,20.6671,0.7163
+Random forest,20,4,20.7379,0.3720
+Gaussian process,40,0,6.5679,0.8197
+Quadratic response surface,40,0,8.1940,0.8365
+Random forest,40,0,20.5261,0.2422
+Gaussian process,40,1,5.9253,0.9695
+Quadratic response surface,40,1,8.1160,0.9286
+Random forest,40,1,20.3139,0.3927
+Gaussian process,40,2,7.0901,0.9109
+Quadratic response surface,40,2,7.5120,0.9177
+Random forest,40,2,21.4811,0.3169
+Gaussian process,40,3,5.8148,0.9073
+Quadratic response surface,40,3,7.8289,0.9421
+Random forest,40,3,20.1265,0.3173
+Gaussian process,40,4,5.8816,0.9354
+Quadratic response surface,40,4,7.7895,0.9163
+Random forest,40,4,20.0270,0.2009
+Gaussian process,80,0,2.7841,0.9892
+Quadratic response surface,80,0,6.6524,0.9584
+Random forest,80,0,16.4404,0.5053
+Gaussian process,80,1,2.2628,0.9929
+Quadratic response surface,80,1,6.2292,0.9583
+Random forest,80,1,15.5878,0.5217
+Gaussian process,80,2,3.2357,0.9821
+Quadratic response surface,80,2,6.5940,0.9458
+Random forest,80,2,15.5887,0.5306
+Gaussian process,80,3,2.5143,0.9937
+Quadratic response surface,80,3,7.5488,0.9424
+Random forest,80,3,15.5251,0.5758
+Gaussian process,80,4,3.1391,0.9863
+Quadratic response surface,80,4,6.8953,0.9471
+Random forest,80,4,14.0121,0.6619
+Gaussian process,160,0,1.8850,0.9948
+Quadratic response surface,160,0,6.3537,0.9624
+Random forest,160,0,12.5805,0.6778
+Gaussian process,160,1,1.7905,0.9967
+Quadratic response surface,160,1,6.2138,0.9635
+Random forest,160,1,12.9712,0.7217
+Gaussian process,160,2,1.9284,0.9928
+Quadratic response surface,160,2,6.1672,0.9632
+Random forest,160,2,14.4688,0.6377
+Gaussian process,160,3,1.8619,0.9960
+Quadratic response surface,160,3,6.3814,0.9497
+Random forest,160,3,14.2795,0.6906
+Gaussian process,160,4,1.8710,0.9954
+Quadratic response surface,160,4,6.8973,0.9496
+Random forest,160,4,15.4664,0.6108

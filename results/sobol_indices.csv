@@ -1,0 +1,6 @@
+variable,first_true,total_true,first_gp,total_gp
+n_fins,0.1478,0.4458,0.1451,0.4577
+fill_ratio,0.1867,0.5246,0.1883,0.5409
+fin_height,0.2472,0.4276,0.2349,0.4139
+base_thickness,-0.0003,0.0043,0.0017,0.0096
+length,0.0005,0.0934,0.0039,0.1045
